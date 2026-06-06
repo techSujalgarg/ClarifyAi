@@ -1,0 +1,6 @@
+{
+  "name": "ClarifyAI",
+  "description": "An AI Legal & Agreement Analyzer that decodes legal jargon, highlights red flags, and suggests counter-clauses in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
